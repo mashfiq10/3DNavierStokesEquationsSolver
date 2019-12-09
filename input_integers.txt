@@ -1,0 +1,23 @@
+16  # nx		
+16  # ny	
+2   # ipr, 1: khi, 2: TGV		
+4   # nsnap
+1   # imu; [1]Sutherland(Tref),[0]No-Sutherland
+2   # imodel; [1]Euler, [2]Navier-Stokes
+2   # idt; [0]given,[1]constant cfl dt, [2]adaptive cfl dt
+1   # iwriteF; [1] write field data in tecplot, [0]no-write
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

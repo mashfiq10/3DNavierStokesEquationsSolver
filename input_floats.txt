@@ -1,0 +1,26 @@
+0.5		# ukhi; shear velocity for KHI
+2.0		# denr; density ration for KHI
+0.5		# cfl; cfl < 1.0d0
+0.125		# nustab; nustab < 1/6
+20.0		# tmax; maximum time 
+1.4		# gamma; ratio of specific heats
+0.005		# dt
+0.72		# Prt; Turbulent Prandtl
+1600.0		# Re; Reference Reynolds for NS model
+0.72		# Pr; Reference Prandtl for NS model
+0.08		# Ma; Reference Mach number for NS model
+300.0		# Tref; Reference temperature (for Sutherland's law scaling)
+2.0		# alpha (KHI mode)
+0.01		# ampy (perturbation velocity)
+
+
+
+
+
+
+
+
+
+
+
+
